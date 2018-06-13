@@ -1,0 +1,2 @@
+# Android-Runtime-Permissions-with-Dexter
+We all know that Android Marshmallow introduced runtime permissions letting user to allow or deny any permission at runtime. Implementing runtime permissions is a very complecated process and developer needs to write lot of code just to get a single permission.  In this article, we are going to simplify the process of adding the runtime permissions using Dexter library. Using this library, the permissions can be implemented in few minutes.
